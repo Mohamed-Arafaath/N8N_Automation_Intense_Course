@@ -12,7 +12,7 @@ This roadmap is your complete guide to mastering n8n workflow automation and AI 
 
 ## 🗺️ Roadmap Overview
 
-### **Phase 1: Engineering Foundations** → [Start Here](./01_engineering_foundations.md)
+### **Phase 1: Engineering Foundations** → [Start Here](./phase1/01_engineering_foundations.md)
 Master the technical substrate that powers all AI automation.
 
 **What You'll Learn**:
@@ -27,7 +27,7 @@ Master the technical substrate that powers all AI automation.
 
 ---
 
-### **Phase 2: Infinite Use Cases** → [Explore Applications](./02_infinite_use_cases.md)
+### **Phase 2: Infinite Use Cases** → [Explore Applications](./phase2/02_infinite_use_cases.md)
 Build production-ready workflows across every major business domain.
 
 **What You'll Build**:
@@ -64,7 +64,7 @@ Build production-ready workflows across every major business domain.
 
 ---
 
-### **Phase 3: Advanced AI Agent Architecture** → [Master AI](./03_advanced_ai_architecture.md)
+### **Phase 3: Advanced AI Agent Architecture** → [Master AI](./phase3/03_advanced_ai_architecture.md)
 Transition from deterministic automation to autonomous AI agents.
 
 **What You'll Master**:
@@ -101,7 +101,7 @@ Transition from deterministic automation to autonomous AI agents.
 
 ---
 
-### **Phase 4: Commercialization & Business** → [Monetize Skills](./04_commercialization_business.md)
+### **Phase 4: Commercialization & Business** → [Monetize Skills](./phase4/04_commercialization_business.md)
 Transform your technical skills into a profitable business.
 
 **What You'll Launch**:
@@ -128,7 +128,7 @@ Transform your technical skills into a profitable business.
 
 ---
 
-### **Phase 5: Emerging Technologies** → [Future-Proof](./05_emerging_technologies.md)
+### **Phase 5: Emerging Technologies** → [Future-Proof](./phase5/05_emerging_technologies.md)
 Stay ahead of the curve with cutting-edge integrations.
 
 **What You'll Explore**:
@@ -385,46 +385,39 @@ The automation economy is here. Businesses are desperate for people who can buil
 ## 📂 Complete Roadmap Structure
 
 ```
-📁 n8n & AI Agent Mastery Roadmap
+📁 n8n & AI Agent Mastery Course
 │
-├── 📄 00_master_index.md (You are here)
+├── 📄 README.md (Start Here - GitHub Entry Point)
+├── 📄 00_master_index.md (You are here - Complete Roadmap)
 │
-├── 📄 01_engineering_foundations.md
-│   ├── Installation & Infrastructure
-│   ├── Core Concepts & Data Flow
-│   ├── Webhooks, APIs & HTTP Requests
-│   ├── JavaScript & Code Node Mastery
-│   └── JSON & Data Transformation
+├── 📂 phase1/ (Engineering Foundations)
+│   ├── 01_engineering_foundations.md (Main Content)
+│   └── 01_n8n_engineering_cheat_sheet.md (Quick Reference)
 │
-├── 📄 02_infinite_use_cases.md
-│   ├── Marketing Automation & Content Creation
-│   ├── Sales Intelligence, CRM & Lead Generation
-│   ├── Operations, Finance & Administrative AI
-│   └── Industry-Specific Solutions (50+ Industries)
+├── 📂 phase2/ (Infinite Use Cases)
+│   ├── 02_infinite_use_cases.md (Main Content)
+│   └── 02_phase2_use_cases_cheat_sheet.md (Quick Reference)
 │
-├── 📄 03_advanced_ai_architecture.md
-│   ├── RAG & Vector Databases
-│   ├── Multi-Agent Systems
-│   ├── Voice AI Agents
-│   ├── Model Context Protocol (MCP)
-│   └── Enterprise AI Deployment
+├── 📂 phase3/ (Advanced AI Architecture)
+│   ├── 03_advanced_ai_architecture.md (Main Content)
+│   └── 03_phase3_advanced_ai_cheat_sheet.md (Quick Reference)
 │
-├── 📄 04_commercialization_business.md
-│   ├── AI Automation Agency Model
-│   ├── Pricing & Packaging Strategies
-│   ├── SaaS Productization
-│   └── White-Labeling & Scaling
+├── 📂 phase4/ (Commercialization & Business)
+│   ├── 04_commercialization_business.md (Main Content)
+│   └── 04_phase4_business_cheat_sheet.md (Quick Reference)
 │
-└── 📄 05_emerging_technologies.md
-    ├── Web3 & Blockchain Integration
-    ├── IoT & Smart Home Automation
-    ├── 3D Generation & Creative AI
-    └── Self-Healing Workflows
+├── 📂 phase5/ (Emerging Technologies)
+│   ├── 05_emerging_technologies.md (Main Content)
+│   └── 05_phase5_emerging_tech_cheat_sheet.md (Quick Reference)
+│
+├── 📄 06_client_acquisition_guide.md (Business Reference)
+└── 📄 07_n8n_comprehensive_user_guide.md (Technical Reference)
 ```
+
 
 ---
 
-**🚀 Ready to start? → [Begin with Phase 1: Engineering Foundations](./01_engineering_foundations.md)**
+**🚀 Ready to start? → [Begin with Phase 1: Engineering Foundations](./phase1/01_engineering_foundations.md)**
 
 ---
 

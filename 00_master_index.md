@@ -6,13 +6,15 @@
 
 ## 📚 Welcome to Your Transformation
 
-This roadmap is your complete guide to mastering n8n workflow automation and AI agent development. Whether you're a complete beginner or an experienced developer, this structured path will transform you into an AI automation architect capable of building and selling sophisticated automation solutions.
+This roadmap is your complete guide to mastering n8n workflow automation and AI agent development. All content is now consolidated into **[The n8n & AI Automation Mastery Bible](./The_N8N_Automation_Bible.md)**.
 
 ---
 
 ## 🗺️ Roadmap Overview
 
-### **Phase 1: Engineering Foundations** → [Start Here](./phase1/01_engineering_foundations.md)
+### **Phase 1: Engineering Foundations**
+> **Location**: [The Bible - Phase 1](./The_N8N_Automation_Bible.md)
+
 Master the technical substrate that powers all AI automation.
 
 **What You'll Learn**:
@@ -27,7 +29,9 @@ Master the technical substrate that powers all AI automation.
 
 ---
 
-### **Phase 2: Infinite Use Cases** → [Explore Applications](./phase2/02_infinite_use_cases.md)
+### **Phase 2: Infinite Use Cases**
+> **Location**: [The Bible - Phase 2](./The_N8N_Automation_Bible.md)
+
 Build production-ready workflows across every major business domain.
 
 **What You'll Build**:
@@ -64,7 +68,9 @@ Build production-ready workflows across every major business domain.
 
 ---
 
-### **Phase 3: Advanced AI Agent Architecture** → [Master AI](./phase3/03_advanced_ai_architecture.md)
+### **Phase 3: Advanced AI Agent Architecture**
+> **Location**: [The Bible - Phase 3](./The_N8N_Automation_Bible.md)
+
 Transition from deterministic automation to autonomous AI agents.
 
 **What You'll Master**:
@@ -101,7 +107,9 @@ Transition from deterministic automation to autonomous AI agents.
 
 ---
 
-### **Phase 4: Commercialization & Business** → [Monetize Skills](./phase4/04_commercialization_business.md)
+### **Phase 4: Commercialization & Business**
+> **Location**: [The Bible - Phase 4](./The_N8N_Automation_Bible.md)
+
 Transform your technical skills into a profitable business.
 
 **What You'll Launch**:
@@ -128,7 +136,9 @@ Transform your technical skills into a profitable business.
 
 ---
 
-### **Phase 5: Emerging Technologies** → [Future-Proof](./phase5/05_emerging_technologies.md)
+### **Phase 5: Emerging Technologies**
+> **Location**: [The Bible - Phase 5](./The_N8N_Automation_Bible.md)
+
 Stay ahead of the curve with cutting-edge integrations.
 
 **What You'll Explore**:

@@ -1,5 +1,7 @@
 # 🔮 Phase 5: Emerging Technologies Tracker
 
+> **Companion to**: [The n8n & AI Automation Mastery Bible](../The_N8N_Automation_Bible.md)
+
 > **Goal**: Master cutting-edge tech: Web3, IoT, Creative AI, and Self-Healing Systems.
 > **Timeline**: 4-6 Weeks
 

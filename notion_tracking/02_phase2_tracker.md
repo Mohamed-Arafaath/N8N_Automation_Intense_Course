@@ -1,4 +1,6 @@
-# 🚀 Phase 2: Infinite Use Cases Tracker
+# 🎯 Phase 2: Infinite Use Cases Tracker
+
+> **Companion to**: [The n8n & AI Automation Mastery Bible](../The_N8N_Automation_Bible.md)
 
 > **Goal**: Build production-ready workflows across every major business domain.
 > **Timeline**: 4-6 Weeks

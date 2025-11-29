@@ -1,4 +1,6 @@
-# 🧠 Phase 3: Advanced AI Architecture Tracker
+# 🤖 Phase 3: Advanced AI Architecture Tracker
+
+> **Companion to**: [The n8n & AI Automation Mastery Bible](../The_N8N_Automation_Bible.md)
 
 > **Goal**: Master the cognitive layer: RAG, Multi-Agent Systems, Voice AI, and Enterprise Deployment.
 > **Timeline**: 6-8 Weeks

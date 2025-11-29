@@ -1,5 +1,7 @@
 # 💼 Phase 4: Commercialization & Business Tracker
 
+> **Companion to**: [The n8n & AI Automation Mastery Bible](../The_N8N_Automation_Bible.md)
+
 > **Goal**: Transform technical skills into a profitable business (Agency or SaaS).
 > **Timeline**: 4-6 Weeks
 

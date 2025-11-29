@@ -1,5 +1,7 @@
 # 🏗️ Phase 1: Engineering Foundations Tracker
 
+> **Companion to**: [The n8n & AI Automation Mastery Bible](../The_N8N_Automation_Bible.md)
+
 > **Goal**: Master the technical substrate that powers all AI automation.
 > **Timeline**: 2-3 Weeks
 

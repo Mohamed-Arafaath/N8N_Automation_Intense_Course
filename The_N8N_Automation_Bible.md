@@ -179,6 +179,14 @@ volumes:
 
 ## 1.2 Core Concepts & Data Flow
 
+### 📚 Udemy Course Reference
+
+**Section 4: The n8n Framework**
+- Lecture: Exploring Node Types and Categories in n8n
+- Lecture: Core Nodes in n8n (Set, Merge, IF, Switch)
+- Lecture: **CRITICAL**: JSON in n8n - How Data Really Flows Between Nodes
+- Lecture: Mastering Expressions: Interactive Template
+
 ### 🎥 Essential YouTube Tutorials
 
 1. **[n8n Nodes Explained: Beginner's Guide to Workflow Automation](https://www.youtube.com/watch?v=example)**
@@ -242,6 +250,13 @@ If a node receives an array with 100 items (e.g., 100 rows from Google Sheets), 
 
 ## 1.3 Webhooks, APIs & HTTP Requests
 
+### 📚 Udemy Course Reference
+
+**Section 5: APIs & Webhooks**
+- Lecture: Introduction to Webhooks & APIs
+- Lecture: HTTP Request Node Deep Dive
+- Lecture: Authentication Methods (API Keys, OAuth2, JWT)
+
 ### 🎥 Essential YouTube Tutorials
 
 1. **[n8n HTTP Request Node: The Ultimate Guide to API Integrations](https://www.youtube.com/watch?v=example)**
@@ -283,6 +298,13 @@ The **HTTP Request Node** is the most powerful node in n8n. It allows you to con
 ---
 
 ## 1.4 JavaScript & Code Node Mastery
+
+### 📚 Udemy Course Reference
+
+**Section 6: JavaScript & Code Node**
+- Lecture: Introduction to JavaScript + Code Node Basics
+- Lecture: Advanced JavaScript Patterns in n8n
+- Lecture: Working with External Libraries
 
 ### 🎥 Essential YouTube Tutorials
 
@@ -337,6 +359,13 @@ You can use JavaScript inside *any* node parameter by clicking the "Expression" 
 ---
 
 ## 1.5 JSON & Data Transformation
+
+### 📚 Udemy Course Reference
+
+**Section 7: Data Transformation**
+- Lecture: **CRITICAL**: JSON in n8n - How Data Really Flows Between Nodes
+- Lecture: Data Transformation Strategies
+- Lecture: Working with Complex Data Structures
 
 ### 🎥 Essential YouTube Tutorials
 

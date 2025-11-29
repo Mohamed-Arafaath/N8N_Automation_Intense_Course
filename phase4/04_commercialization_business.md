@@ -1,5 +1,7 @@
 # Phase 4: Commercialization & Business
 
+> **📖 Primary Resource**: [The n8n & AI Automation Mastery Bible](../The_N8N_Automation_Bible.md) - Read Phase 4 there for the complete textbook experience.
+>
 > **Goal**: Transform your technical skills into a profitable business. Learn how to package, price, and sell n8n automation and AI agent services.
 
 ---

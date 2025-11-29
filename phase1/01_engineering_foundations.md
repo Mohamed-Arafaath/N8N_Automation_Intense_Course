@@ -1,5 +1,7 @@
 # Phase 1: Engineering Foundations
 
+> **📖 Primary Resource**: [The n8n & AI Automation Mastery Bible](../The_N8N_Automation_Bible.md) - Read Phase 1 there for the complete textbook experience.
+>
 > **Goal**: Master the technical substrate that powers all AI automation. Before building autonomous agents, you must master the deterministic rails upon which they run.
 
 ---

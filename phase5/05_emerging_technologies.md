@@ -1,5 +1,7 @@
 # Phase 5: Emerging Technologies
 
+> **📖 Primary Resource**: [The n8n & AI Automation Mastery Bible](../The_N8N_Automation_Bible.md) - Read Phase 5 there for the complete textbook experience.
+>
 > **Goal**: Stay ahead of the curve by mastering cutting-edge technologies. Explore Web3, IoT, 3D generation, and self-healing systems that will define the next wave of automation.
 
 ---

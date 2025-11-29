@@ -1,5 +1,7 @@
 # Phase 2: Infinite Use Cases - Business Automation
 
+> **📖 Primary Resource**: [The n8n & AI Automation Mastery Bible](../The_N8N_Automation_Bible.md) - Read Phase 2 there for the complete textbook experience.
+>
 > **Goal**: Build production-ready workflows across every major business domain. Apply your Phase 1 foundations to create real-world automation solutions that generate immediate business value.
 
 ---

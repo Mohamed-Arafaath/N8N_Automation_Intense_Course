@@ -1,5 +1,7 @@
 # Phase 3: Advanced AI Agent Architecture
 
+> **📖 Primary Resource**: [The n8n & AI Automation Mastery Bible](../The_N8N_Automation_Bible.md) - Read Phase 3 there for the complete textbook experience.
+>
 > **Goal**: Transition from deterministic automation to probabilistic AI agents. Master the cognitive layer that enables autonomous decision-making, long-term memory, and multi-agent orchestration.
 
 ---

@@ -1,4 +1,7 @@
 # 💰 The "Client Hunter" Monetization Guide
+
+> **Part of**: [The n8n & AI Automation Mastery Bible](./The_N8N_Automation_Bible.md) - Phase 4: Commercialization & Business
+>
 > **Goal**: Stop teaching, start building. How to land high-paying clients ($2k-$10k) by solving expensive problems with n8n.
 
 ---

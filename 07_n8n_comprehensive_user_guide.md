@@ -1,5 +1,7 @@
 # 📖 The Complete n8n Encyclopedia (A-Z Guide)
 
+> **Companion to**: [The n8n & AI Automation Mastery Bible](./The_N8N_Automation_Bible.md)
+>
 > **Everything You Need to Know About n8n** - From installation to advanced AI agents, production deployment, and beyond.
 
 ---

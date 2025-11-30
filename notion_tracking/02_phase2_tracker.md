@@ -14,6 +14,9 @@
 - [ ] **Module 2.3**: Operations, Finance & Admin
 - [ ] **Module 2.4**: Industry-Specific Solutions
 - [ ] **Module 2.5**: Service Industry (WhatsApp/Booking)
+- [ ] **Module 2.6**: Cold Outreach & Lead Gen (Email/LinkedIn/SMS)
+- [ ] **Module 2.7**: Creative AI & Content Production
+- [ ] **Module 2.8**: Industry-Specific Solutions
 - [ ] **Project 1**: The Viral Content Engine
 - [ ] **Project 2**: The Ultimate Lead Hunter
 - [ ] **Project 3**: YouTube Shorts Machine
@@ -96,6 +99,33 @@
 - [ ] **Project**: Build "The Universal Appointment Setter"
 - [ ] Master: WhatsApp Business API Integration
 - [ ] Master: Google Calendar Resource Management
+
+### 2.6 Cold Outreach & Lead Gen
+- [ ] Watch: "How To Build A Cold Email Automation Using N8N"
+- [ ] Watch: "How to Automate WhatsApp Bulk Messaging with N8N"
+- [ ] Watch: "LinkedIn Message Automation in n8n"
+- [ ] Watch: "How to Automate LinkedIn Posts with n8n"
+- [ ] Watch: "How to build an SMS agent in n8n"
+- [ ] **Project**: Build "The Ultimate Cold Outreach Machine"
+- [ ] **Project**: Build "The LinkedIn Growth Engine"
+
+### 2.7 Creative AI & Content Production
+- [ ] Watch: "How to Automatically Create YouTube Shorts with n8n" (Creatomate)
+- [ ] Watch: "INSANE Shorts Automation! (n8n tutorial)" (AI Foundations)
+- [ ] Watch: "Generate AI Avatar Videos With This n8n Automation" (Matt Penny)
+- [ ] Watch: "This n8n AI Agent Avatar will AUTOMATE your Social Media" (Sabrina Ramonov)
+- [ ] Watch: "100% Instagram Automation with GPT4o + MidJourney + N8N" (Futurminds AI)
+- [ ] Watch: "Build Your First Voice AI Agent with n8n & Vapi" (Nate Herk)
+- [ ] **Project**: Build "The Viral Content Factory" (Shorts/Reels)
+- [ ] **Project**: Build "The AI Graphic Designer" (Midjourney)
+- [ ] Master: HeyGen/Runway API Integration
+- [ ] Master: Video Editing Automation (JSON2Video/Creatomate)
+
+### 2.8 Industry-Specific Solutions
+- [ ] Explore: Real Estate Automation
+- [ ] Explore: Healthcare Automation
+- [ ] Explore: Legal Automation
+- [ ] Explore: E-commerce Automation
 
 ---
 

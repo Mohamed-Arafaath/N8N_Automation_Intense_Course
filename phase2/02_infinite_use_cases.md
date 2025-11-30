@@ -1342,7 +1342,93 @@ The service industry lives and dies by bookings and orders. Automating these pro
 
 ---
 
-## 2.6 Industry-Specific Solutions (50+ Industries)
+## 2.6 Cold Outreach & Lead Generation
+
+### 🎥 Essential YouTube Tutorials
+
+#### Cold Email Automation
+1. **[How To Build A Cold Email Automation Using N8N (FREE Template) - Rajeev Daz](https://www.youtube.com/results?search_query=How+To+Build+A+Cold+Email+Automation+Using+N8N+(FREE+Template)+Rajeev+Daz)**
+2. **[Best Cold Email Automation You'll Ever See (Free n8n Template)](https://www.youtube.com/results?search_query=Best+Cold+Email+Automation+You'll+Ever+See+(Free+n8n+Template))**
+3. **[How I Send 1000+ Personalized Cold Emails Automatically with n8n](https://www.youtube.com/results?search_query=How+I+Send+1000%2B+Personalized+Cold+Emails+Automatically+with+n8n)**
+4. **[Automate Cold Email Reporting In Minutes With n8n](https://www.youtube.com/results?search_query=Automate+Cold+Email+Reporting+In+Minutes+With+n8n)**
+
+#### WhatsApp & SMS Cold Outreach
+1. **[How to Automate WhatsApp Bulk Messaging with N8N](https://www.youtube.com/results?search_query=How+to+Automate+WhatsApp+Bulk+Messaging+with+N8N)**
+2. **[The lead automation setup that changed my business (WhatsApp, n8n)](https://www.youtube.com/results?search_query=The+lead+automation+setup+that+changed+my+business+(WhatsApp,+n8n))**
+3. **[How to build an SMS agent in n8n in 9 minutes (Quickest + easiest method) - Rory Ridges](https://www.youtube.com/results?search_query=How+to+build+an+SMS+agent+in+n8n+in+9+minutes+(Quickest+%2B+easiest+method)+Rory+Ridges)**
+4. **[I built an SMS AI Agent with n8n (Step-by-step Tutorial)](https://www.youtube.com/results?search_query=I+built+an+SMS+AI+Agent+with+n8n+(Step-by-step+Tutorial))**
+
+#### LinkedIn Automation (Messaging & Content)
+1. **[LinkedIn Message Automation in n8n | Auto DM, Connect & Hyper-Personalized Outreach](https://www.youtube.com/results?search_query=LinkedIn+Message+Automation+in+n8n+|++Auto+DM,+Connect+%26+Hyper-Personalized+Outreach)**
+2. **[Scale LinkedIn Outreach to 1,000+ DMs/Week with AI + n8n](https://www.youtube.com/results?search_query=Scale+LinkedIn+Outreach+to+1,000%2B+DMs/Week+with+AI+%2B+n8n)**
+3. **[How to Automate LinkedIn Posts with n8n (2025 Guide)](https://www.youtube.com/results?search_query=How+to+Automate+LinkedIn+Posts+with+n8n+(2025+Guide))**
+4. **[How to automation Linkedin Posts using N8N](https://www.youtube.com/results?search_query=How+to+automation+Linkedin+Posts+using+N8N)**
+
+#### Automated Follow-Up Systems
+1. **[Automate Email Follow-ups with n8n (Step-by-Step Guide)](https://www.youtube.com/results?search_query=Automate+Email+Follow-ups+with+n8n+(Step-by-Step+Guide))**
+2. **[Build an Automated Follow-up System with n8n & Gmail](https://www.youtube.com/results?search_query=Build+an+Automated+Follow-up+System+with+n8n+%26+Gmail)**
+
+---
+
+## 2.7 Creative AI & Content Production
+
+### 🎥 Essential YouTube Tutorials
+
+#### AI Video Generation (Shorts & Long Form)
+1. **[How to Automatically Create YouTube Shorts with n8n - Creatomate](https://www.youtube.com/results?search_query=How+to+Automatically+Create+YouTube+Shorts+with+n8n+-+Creatomate)**
+2. **[INSANE Shorts Automation! (n8n tutorial) - AI Foundations](https://www.youtube.com/results?search_query=INSANE+Shorts+Automation!+(n8n+tutorial)+AI+Foundations)**
+3. **[How I 100% Automated Long Form Content with n8n (free template)](https://www.youtube.com/results?search_query=How+I+100%25+Automated+Long+Form+Content+with+n8n+(free+template))**
+4. **[Create ANYTHING with Sora 2 + n8n AI Agents (Full Beginner's Guide) - Nate Herk](https://www.youtube.com/results?search_query=Create+ANYTHING+with+Sora+2+%2B+n8n+AI+Agents+(Full+Beginner's+Guide)+Nate+Herk)**
+5. **[How to Automate Longform YouTube Videos from ANY Blog! (n8n tutorial) - Duncan Rogoff](https://www.youtube.com/results?search_query=How+to+Automate+Longform+YouTube+Videos+from+ANY+Blog!+(n8n+tutorial)+Duncan+Rogoff)**
+
+#### AI Avatars & UGC
+1. **[Generate AI Avatar Videos With This n8n Automation (Quick & Easy Tutorial) - Matt Penny](https://www.youtube.com/results?search_query=Generate+AI+Avatar+Videos+With+This+n8n+Automation+(Quick+%26+Easy+Tutorial)+Matt+Penny)**
+2. **[This n8n AI Agent Avatar will AUTOMATE your Social Media - Sabrina Ramonov](https://www.youtube.com/results?search_query=This+n8n+AI+Agent+Avatar+will+AUTOMATE+your+Social+Media+Sabrina+Ramonov)**
+3. **[Create Your AI Avatar Clone with HeyGen + n8n Automation](https://www.youtube.com/results?search_query=Create+Your+AI+Avatar+Clone+with+HeyGen+%2B+n8n+Automation)**
+
+#### AI Graphic Design & Midjourney
+1. **[100% Instagram Automation with GPT4o + MidJourney + N8N - Futurminds AI](https://www.youtube.com/results?search_query=100%25+Instagram+Automation+with+GPT4o+%2B+MidJourney+%2B+N8N+Futurminds+AI)**
+2. **[This AI Agent Replaces an $82k/yr Graphic Designer (N8N) - Nick Saraev](https://www.youtube.com/results?search_query=This+AI+Agent+Replaces+an+$82k/yr+Graphic+Designer+(N8N)+Nick+Saraev)**
+3. **[I Made My Own Graphic Designer with N8N + AI - Julian Goldie](https://www.youtube.com/results?search_query=I+Made+My+Own+Graphic+Designer+with+N8N+%2B+AI+Julian+Goldie)**
+
+#### Voice AI & Multilingual Agents
+1. **[Build Your First Voice AI Agent with n8n & Vapi (Full Beginner's Guide) - Nate Herk](https://www.youtube.com/results?search_query=Build+Your+First+Voice+AI+Agent+with+n8n+%26+Vapi+(Full+Beginner's+Guide)+Nate+Herk)**
+2. **[How To Connect Vapi To N8N AI Agents in 9 Minutes - Shashee Dean](https://www.youtube.com/results?search_query=How+To+Connect+Vapi+To+N8N+AI+Agents+in+9+Minutes+Shashee+Dean)**
+3. **[How to Build an AI Voice Agent that Speaks Every Language (VAPI + n8n) - Anthony Ton](https://www.youtube.com/results?search_query=How+to+Build+an+AI+Voice+Agent+that+Speaks+Every+Language+(VAPI+%2B+n8n)+Anthony+Ton)**
+
+#### Social Media & Lead Gen
+1. **[n8n Social Media Automation Tutorial | Build AI Agent to Post on Facebook - Syncbricks](https://www.youtube.com/results?search_query=n8n+Social+Media+Automation+Tutorial+Build+AI+Agent+to+Post+on+Facebook+Syncbricks)**
+2. **[Automate Bookings 24/7 with a #WhatsApp #AI Agent (#n8n + 2Chat)](https://www.youtube.com/results?search_query=Automate+Bookings+24%2F7+with+a+%23WhatsApp+%23AI+Agent+(%23n8n+%2B+2Chat))**
+3. **[How I Automate Lead Generation With AI & Automation in n8n (Copy This) - Effisys](https://www.youtube.com/results?search_query=How+I+Automate+Lead+Generation+With+AI+%26+Automation+in+n8n+(Copy+This)+Effisys)**
+
+### 🛠️ Hands-On Project: "The Viral Content Factory"
+**Objective**: A fully autonomous system that generates, edits, and posts short-form video content.
+
+**Architecture**:
+1.  **Idea Gen**: AI monitors trending topics (Twitter/Google Trends) -> Generates "Viral Hooks".
+2.  **Scripting**: GPT-4 writes a 60-second script optimized for retention.
+3.  **Visuals**:
+    *   **Option A (Stock)**: Search Pexels/Storyblocks API.
+    *   **Option B (AI Gen)**: Generate images via Midjourney/DALL-E or Video via Runway.
+    *   **Option C (Avatar)**: Send script to HeyGen API for a talking head video.
+4.  **Voiceover**: ElevenLabs generates the audio.
+5.  **Editing**: JSON2Video or Creatomate API stitches everything together with captions.
+6.  **Publishing**: Uploads to YouTube Shorts, TikTok, and Instagram Reels.
+
+### 🛠️ Hands-On Project: "The AI Graphic Designer"
+**Objective**: Automatically generate social media assets and thumbnails.
+
+**Workflow**:
+1.  **Trigger**: New Blog Post or YouTube Video.
+2.  **Prompting**: AI analyzes the content and writes a detailed Midjourney prompt.
+3.  **Generation**: Send prompt to Discord (via Webhook) or an image gen API.
+4.  **Upscaling**: Upscale the chosen image.
+5.  **Overlay**: Use a tool like Bannerbear or Cloudinary to add text overlays (Title, Author).
+6.  **Delivery**: Save to Google Drive or attach to the CMS.
+
+---
+
+## 2.8 Industry-Specific Solutions (50+ Industries)
 
 This section covers specialized verticals with detailed use cases, tutorials, and production-ready workflows for each industry.
 

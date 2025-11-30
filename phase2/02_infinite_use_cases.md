@@ -1304,7 +1304,45 @@
 
 ---
 
-## 2.4 Industry-Specific Solutions (50+ Industries)
+## 2.5 Service Industry Automation (Restaurants & Booking)
+
+### 🎥 Essential YouTube Tutorials
+
+1. **[How To Build a WhatsApp Restaurant AI Agent in 10 minutes (n8n Tutorial)](https://www.youtube.com/watch?v=example)**
+2. **[Build a WhatsApp AI Appointment Booking System](https://www.youtube.com/watch?v=example)**
+3. **[Doctor Appointment Management System with Gemini AI, WhatsApp, Stripe & Google Sheets](https://www.youtube.com/watch?v=example)**
+4. **[Automate My Calendar with AI using n8n + Google Calendar + OpenAI](https://www.youtube.com/watch?v=example)**
+
+The service industry lives and dies by bookings and orders. Automating these processes on channels customers actually use (like WhatsApp) is a game-changer.
+
+### 🛠️ Hands-On Project: "The AI Maître D'"
+**Objective**: Build a WhatsApp chatbot that takes restaurant reservations, answers menu questions, and logs bookings to Google Sheets.
+
+**Architecture**:
+1.  **Trigger**: WhatsApp Webhook (via Twilio or WhatsApp Business API).
+2.  **Brain**: OpenAI/Claude node to understand intent ("Book a table", "See menu", "Cancel").
+3.  **Tools**:
+    *   **Google Sheets**: Check table availability.
+    *   **Google Calendar**: Create the calendar event.
+4.  **Response**: Send confirmation back to WhatsApp.
+
+**Key Logic**:
+*   **Intent Classification**: Use an AI Agent node to classify the user's message into `booking_intent`, `menu_intent`, or `faq_intent`.
+*   **Availability Check**: Before booking, query your database (Sheets/Airtable) to ensure the slot is free.
+*   **Structured Data Extraction**: Use OpenAI function calling to extract `date`, `time`, and `party_size` from natural language (e.g., "Table for 4 tomorrow at 8pm").
+
+### 🛠️ Hands-On Project: "The Universal Appointment Setter"
+**Objective**: A system that manages appointments for doctors, salons, or consultants.
+
+**Features**:
+*   **Natural Language Booking**: "I need a haircut next Tuesday afternoon."
+*   **Conflict Resolution**: "Tuesday afternoon is full, how about Wednesday at 2pm?"
+*   **Reminders**: Send WhatsApp/SMS reminders 24h before.
+*   **Cancellations**: Handle "I can't make it" messages gracefully and free up the slot.
+
+---
+
+## 2.6 Industry-Specific Solutions (50+ Industries)
 
 This section covers specialized verticals with detailed use cases, tutorials, and production-ready workflows for each industry.
 

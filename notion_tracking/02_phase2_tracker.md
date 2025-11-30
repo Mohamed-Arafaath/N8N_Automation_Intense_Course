@@ -11,10 +11,11 @@
 
 - [ ] **Module 2.1**: Marketing Automation & Content Creation
 - [ ] **Module 2.2**: Sales Intelligence, CRM & Lead Generation
-- [ ] **Module 2.3**: Operations, Finance & Administrative AI
-- [ ] **Module 2.4**: Industry-Specific Solutions (50+ Industries)
-- [ ] **Project 1**: SEO Blog Factory
-- [ ] **Project 2**: Social Media Command Center
+- [ ] **Module 2.3**: Operations, Finance & Admin
+- [ ] **Module 2.4**: Industry-Specific Solutions
+- [ ] **Module 2.5**: Service Industry (WhatsApp/Booking)
+- [ ] **Project 1**: The Viral Content Engine
+- [ ] **Project 2**: The Ultimate Lead Hunter
 - [ ] **Project 3**: YouTube Shorts Machine
 - [ ] **Project 4**: The Hunter Agent (Lead Gen)
 - [ ] **Project 5**: BANT Qualification Bot
@@ -82,15 +83,19 @@
   - [ ] Account creation (Google, Slack, GitHub)
   - [ ] Welcome email sequence
 
-### 2.4 Industry Solutions
-- [ ] **Real Estate**: Off-market deal hunter
-- [ ] **Healthcare**: Patient triage system
-- [ ] **Legal**: Contract review assistant
-- [ ] **Construction**: Quote automation
-- [ ] **Supply Chain**: Inventory tracking
-- [ ] **Agriculture**: Precision farming IoT
-- [ ] **Education**: Lesson plan generator
-- [ ] **Travel**: Itinerary builder
+### 2.4 Industry-Specific Solutions
+- [ ] Explore: Real Estate Automation
+- [ ] Explore: Healthcare Automation
+- [ ] Explore: Legal Automation
+- [ ] Explore: E-commerce Automation
+
+### 2.5 Service Industry (WhatsApp/Booking)
+- [ ] Watch: "How To Build a WhatsApp Restaurant AI Agent"
+- [ ] Watch: "Build a WhatsApp AI Appointment Booking System"
+- [ ] **Project**: Build "The AI Maître D'" (Restaurant Bot)
+- [ ] **Project**: Build "The Universal Appointment Setter"
+- [ ] Master: WhatsApp Business API Integration
+- [ ] Master: Google Calendar Resource Management
 
 ---
 
